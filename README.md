@@ -1,2 +1,2 @@
 naber bebegim
-# https://abromanicon.github.io/test/
+<a href="https://abromanicon.github.io/test/">privacy policy</a>
